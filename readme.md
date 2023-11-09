@@ -26,9 +26,11 @@ or
 ```
 git clone https://github.com/ldrobotSensorTeam/ldlidar_stl_ros.git
 ```
+
 > Step 3
 Connect the lidar to system or raspberrypi open a terminal under the ubuntu system and enter --> ls /dev/ttyUSB* 
 if Serial port device is detected, in terminal show like /dev/ttyUSB0
+
 
 >Step 4
 ```
