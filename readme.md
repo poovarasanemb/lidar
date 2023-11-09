@@ -1,4 +1,4 @@
-#LD19 DATASHEET
+# LD19 DATASHEET
 refer the images using below datasheet
 
 https://www.elecrow.com/download/product/SLD06360F/LD19_Development%20Manual_V2.3.pdf
