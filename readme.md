@@ -2,6 +2,7 @@
 refer the images using below datasheet
 
 https://www.elecrow.com/download/product/SLD06360F/LD19_Development%20Manual_V2.3.pdf
+
 but use below commeds to run lidar real time mapping
 
 # Armbot Navigation Package
